@@ -1,0 +1,7 @@
+{
+    "name": "paultejedaf/rut-chile",
+    "description": "Calcula el digito verificador de RUT Chile",
+    "require": {
+        "php": ">=7.4"
+    }
+}
